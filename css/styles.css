@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+.Portraits {
+  float: left;
+  width: 400px;
+}
+.Wedding {
+  width: 400px;
+  margin: 0 auto;
+}
+.Nature  {
+  width: 400px;
+  float: right;
+}
